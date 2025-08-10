@@ -2,9 +2,9 @@
 
 This project provides a simple way to mark your images as AI-generated.
 
-There can be many reasons to do this, such as regulations like the EU AI Act.
+There can be various reasons to do this, such as regulations like the [EU AI Act](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act), or just your desire to help your users identify what is real and what is not.
 
-The solution: just add a recognizable icon to the image. 
+Adding a recognizable "this image was generated" icon - helps. 
 
 # The icon
 
