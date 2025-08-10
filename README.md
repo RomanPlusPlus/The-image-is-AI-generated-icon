@@ -26,7 +26,7 @@ But feel free to use any of them.
 
 
 
-# Usage exmaples
+# Usage examples
 
 (Click to see the full-size image)
 
