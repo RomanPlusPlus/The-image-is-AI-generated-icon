@@ -19,7 +19,7 @@ The icon comes in three versions:
 <td><a href="icon/png/black_on_white.png" target="_blank"><img src="icon/png/black_on_white.png" width="100"></a></td>
 </tr></table>
 
-We also have [SVG versions](icon/svg) of the icons.
+We also have SVG [versions](icon/svg), including a black-on-transparent one.
 
 We recommend using the blue version, as it looks good on both light and dark backgrounds.
 But feel free to use any of them.
@@ -32,23 +32,24 @@ But feel free to use any of them.
 
 White on black icon:
 <table><tr>
-<td><a href="examples/with_icon_white_on_black/night_with_icon_white_on_black.png" target="_blank"><img src="examples/with_icon_white_on_black/night_with_icon_white_on_black.png" width="300"></a></td>
+
 <td><a href="examples/with_icon_white_on_black/summer_with_icon_white_on_black.png" target="_blank"><img src="examples/with_icon_white_on_black/summer_with_icon_white_on_black.png" width="300"></a></td>
 <td><a href="examples/with_icon_white_on_black/winter_with_icon_white_on_black.png" target="_blank"><img src="examples/with_icon_white_on_black/winter_with_icon_white_on_black.png" width="300"></a></td>
+<td><a href="examples/with_icon_white_on_black/night_with_icon_white_on_black.png" target="_blank"><img src="examples/with_icon_white_on_black/night_with_icon_white_on_black.png" width="300"></a></td>
 </tr></table>
 
 White on blue icon:
 <table><tr>
-<td><a href="examples/with_icon_white_on_blue/night_with_icon_white_on_blue.png" target="_blank"><img src="examples/with_icon_white_on_blue/night_with_icon_white_on_blue.png" width="300"></a></td>
 <td><a href="examples/with_icon_white_on_blue/summer_with_icon_white_on_blue.png" target="_blank"><img src="examples/with_icon_white_on_blue/summer_with_icon_white_on_blue.png" width="300"></a></td>
 <td><a href="examples/with_icon_white_on_blue/winter_with_icon_white_on_blue.png" target="_blank"><img src="examples/with_icon_white_on_blue/winter_with_icon_white_on_blue.png" width="300"></a></td>
+<td><a href="examples/with_icon_white_on_blue/night_with_icon_white_on_blue.png" target="_blank"><img src="examples/with_icon_white_on_blue/night_with_icon_white_on_blue.png" width="300"></a></td>
 </tr></table>
 
 Black on white icon:
 <table><tr>
-<td><a href="examples/with_icon_black_on_white/night_with_icon_black_on_white.png" target="_blank"><img src="examples/with_icon_black_on_white/night_with_icon_black_on_white.png" width="300"></a></td>
 <td><a href="examples/with_icon_black_on_white/summer_with_icon_black_on_white.png" target="_blank"><img src="examples/with_icon_black_on_white/summer_with_icon_black_on_white.png" width="300"></a></td>
 <td><a href="examples/with_icon_black_on_white/winter_with_icon_black_on_white.png" target="_blank"><img src="examples/with_icon_black_on_white/winter_with_icon_black_on_white.png" width="300"></a></td>
+<td><a href="examples/with_icon_black_on_white/night_with_icon_black_on_white.png" target="_blank"><img src="examples/with_icon_black_on_white/night_with_icon_black_on_white.png" width="300"></a></td>
 </tr></table>
 
 # Recommended usage
